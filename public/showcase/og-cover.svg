@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bgog" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(210,35%,7%)"/>
+      <stop offset="100%" stop-color="hsl(210,45%,2%)"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bgog)"/>
+  <text x="50%" y="46%" text-anchor="middle" font-family="Georgia, serif" font-size="64" fill="#e8cd8a">Noctura Studio</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="24" letter-spacing="3" fill="#a9c3e6">AI Vertical Drama Production Kits</text>
+</svg>

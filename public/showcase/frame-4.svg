@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="750" viewBox="0 0 1200 750">
+  <defs>
+    <linearGradient id="bgf4" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="hsl(245,30%,7%)"/>
+      <stop offset="100%" stop-color="hsl(245,40%,2%)"/>
+    </linearGradient>
+    <radialGradient id="glowf4" cx="50%" cy="40%" r="70%">
+      <stop offset="0%" stop-color="#c9a24b" stop-opacity="0.12"/>
+      <stop offset="100%" stop-color="#c9a24b" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <rect width="1200" height="750" fill="url(#bgf4)"/>
+  <rect width="1200" height="750" fill="url(#glowf4)"/>
+  <text x="50%" y="50%" text-anchor="middle" font-family="Georgia, serif" font-size="26" letter-spacing="8" fill="#c9a24b" opacity="0.7">CINEMATIC STILL — PLACEHOLDER</text>
+  <text x="50%" y="56%" text-anchor="middle" font-family="Helvetica, Arial, sans-serif" font-size="14" letter-spacing="2" fill="#8a8f9c">Replace in /public/showcase</text>
+  <rect x="0.5" y="0.5" width="1199" height="749" fill="none" stroke="#c9a24b" stroke-opacity="0.25" stroke-width="1"/>
+</svg>
