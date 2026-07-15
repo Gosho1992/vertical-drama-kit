@@ -75,4 +75,22 @@ export const products: Product[] = [
     version: "Boys Love (BL)",
     tagline: "Some promises change everything.",
   },
+  {
+    id: 5,
+    title: "Bound by Contract",
+    image: "/posters/bound-by-contract-straight.jpg",
+    gumroad: "https://zainzia.gumroad.com/l/txlxnz",
+    genre: "Office Romance",
+    version: "Straight (ST)",
+    tagline: "She was hired to manage his calendar. Not fall for him.",
+  },
+  {
+    id: 6,
+    title: "It's Too Big",
+    image: "/posters/its-too-big-boys-love.jpg",
+    gumroad: "https://zainzia.gumroad.com/l/pxodto",
+    genre: "Age Gap Romance",
+    version: "Boys Love (BL)",
+    tagline: "Some things can't stay professional.",
+  },
 ];
